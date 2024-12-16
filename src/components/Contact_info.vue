@@ -40,7 +40,7 @@
 
       <div class="col-lg-4 col-md-6 mb-4 mb-md-0" style=" text-align: center;">
         <div class="rounded-circle bg-white shadow-1-strong d-flex align-items-center justify-content-center mb-4 mx-auto" style="width: 150px; height: 150px;">
-            <img src="src/assets/pic/icon/black.png"
+            <img src="src/assets/pic/icon/black_1.png"
              height="125" width="125" alt=""
                  loading="lazy" />
           </div>
