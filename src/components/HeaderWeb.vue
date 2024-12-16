@@ -4,7 +4,7 @@
     <header class="fixed-header d-flex flex-wrap justify-content-center py-2 mb-4">
       <!--The Logo, Name on Header-->
       <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none" style="margin-left: 40px;">
-        <img src="src/assets/pic/icon/white.png" alt="" width="70" height="70"> &nbsp; &nbsp;
+        <img src="src/assets/pic/icon/black.png" alt="" width="70" height="70"> &nbsp; &nbsp;
         <span class="fs-4" style="color: white;">Many Course</span>
       </a>
 <!-- Button On Header Right Hand-->
