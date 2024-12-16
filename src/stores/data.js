@@ -88,12 +88,12 @@ export const dataStore = defineStore('course', () => {
       const data_dev = ref([
          {
           id:1,name:'Athit Fongkhaimuk',
-          img:'src/assets/pic/dev/462653794_1076703184190822_5725267680454312904_n.jpg',
+          img:'views/dev_pic/462653794_1076703184190822_5725267680454312904_n.jpg',
           url:'https://poplme.co/G7lP22B1/share',
           text:'6504101409',
          },{
           id:2,name:'Chaiyut Suntharote',
-          img:'src/assets/pic/dev/436261139_4436816383211391_786084775108301630_n.jpg',
+          img:'views/dev_pic/436261139_4436816383211391_786084775108301630_n.jpg',
           url:'https://poplme.co/GU4bLcu6/dash',
           text:'6504101318',
          }
