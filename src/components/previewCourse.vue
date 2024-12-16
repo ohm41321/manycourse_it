@@ -12,7 +12,7 @@
     <hr class="line">
     <div class="grid-preview">
         <div class="pic-preview">
-            <img class="pic-res-left"  src="src/assets/pic/da7ogam-f1defc35-83db-4319-9d8b-15117bcc3c94.png" width="500" height="620" style="object-fit: cover;">
+            <img class="pic-res-left"  src="../assets/pic/da7ogam-f1defc35-83db-4319-9d8b-15117bcc3c94.png" width="500" height="620" style="object-fit: cover;">
         </div>
         <div class="text-preview-right">
             <h1 class="title-name-preview">Cooking Class</h1>
@@ -26,13 +26,13 @@
             <h4 class="detail-text-preview">"Unleash your creativity with our Drawing Courses!"</h4>
         </div>
         <div class="pic-preview">
-            <img class="pic-res-right"  src="src/assets/pic/dev/course/pngtree-drawing-of-an-anime-girl-with-curly-hair-vector-png-image_6791731.png" width="450" height="620" style="object-fit: cover;">
+            <img class="pic-res-right"  src="../assets/pic/dev/course/pngtree-drawing-of-an-anime-girl-with-curly-hair-vector-png-image_6791731.png" width="450" height="620" style="object-fit: cover;">
         </div>
     </div> <br> <!-- https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4832572f-99af-4762-8892-010000fd8707/de1v51g-2ebeb7e7-0055-4972-9c31-c071d768b520.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4MzI1NzJmLTk5YWYtNDc2Mi04ODkyLTAxMDAwMGZkODcwN1wvZGUxdjUxZy0yZWJlYjdlNy0wMDU1LTQ5NzItOWMzMS1jMDcxZDc2OGI1MjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IzPCeRvKlcxfHpizYEvkOyUZaZuygjYILizCm-9mLAw -->
     <hr class="line">
     <div class="grid-preview">
         <div class="pic-preview">
-            <img class="pic-res-left" src="src/assets/pic/dev/course/png-clipart-karate-mixed-martial-arts-kick-anime-karate-physical-fitness-sport-removebg-preview.png" width="500" height="550" style="object-fit: cover;">
+            <img class="pic-res-left" src="../assets/pic/dev/course/png-clipart-karate-mixed-martial-arts-kick-anime-karate-physical-fitness-sport-removebg-preview.png" width="500" height="550" style="object-fit: cover;">
         </div>
         <div class="text-preview-right">
             <h1 class="title-name-preview">Exercise Class</h1>

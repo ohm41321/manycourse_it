@@ -10,7 +10,7 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="src/assets/pic/what-skills-should-you-master-expertise.jpg" style="width: 100%; height: auto; object-fit: fill; object-position: right;">
+        <img src="../assets/pic/what-skills-should-you-master-expertise.jpg" style="width: 100%; height: auto; object-fit: fill; object-position: right;">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-start">
@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="src/assets/pic/best-tools-help-create-elearning-course-1.jpg" style="width: 100%; height:auto; object-fit: cover; object-position: center">
+        <img src="../assets/pic/best-tools-help-create-elearning-course-1.jpg" style="width: 100%; height:auto; object-fit: cover; object-position: center">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption">
@@ -30,7 +30,7 @@
         </div>
       </div>
       <div class="carousel-item">
-        <img src="src/assets/pic/what-an-elearning-course-should-be-comprised-of-1.jpg" style="width: 100%; height: auto;  object-fit: fill; object-position: center;">
+        <img src="../assets/pic/what-an-elearning-course-should-be-comprised-of-1.jpg" style="width: 100%; height: auto;  object-fit: fill; object-position: center;">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-end">
